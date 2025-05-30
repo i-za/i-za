@@ -4,7 +4,8 @@
 💻 Currently learning Full-Stack Web Development via Satr, FutureX, Coursera, and Doroob  
 🧠 Skills: Python, SQL, HTML, CSS, Git  
 🌱 Completed a certified course in Web Application Development via Doroob (HRDF-supported)  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/zahra-al-bayabi-689977216)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/zahra-al-bayabi-689977216)
 
 ---
 
@@ -20,4 +21,4 @@
 
 - Build and publish real-world projects  
 - Collaborate with other developers  
-- Keep growing in web development and technical support
+- Keep growing in web development and technical support  
